@@ -5,7 +5,7 @@
 
 
 <h1 align="center">𝚂𝙾𝙽𝙽𝟶𝟶</h1>
-<p align="center"><sub>CODE • CREATE • REPEAT</sub></p>
+<p align="center"><sub> •  • </sub></p>
 
 
 </div>
