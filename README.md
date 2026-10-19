@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Sonn00/Sonn00/output/github-snake.svg)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-*Transformando café ☕ em código.*
+☕*
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Sonn00/Sonn00/output/github-snake.svg)
 
-</div>
+
+
 
 
 
