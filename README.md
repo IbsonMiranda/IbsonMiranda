@@ -45,6 +45,17 @@
 
 </div>
 
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/Sonn00/Sonn00/output/github-snake.svg)
+
+</div>
+
+
 
 
 <!--
