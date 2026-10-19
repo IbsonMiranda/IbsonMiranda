@@ -1,9 +1,9 @@
 ## 
 <div align="center">
 
-# Opa sou o ibson
+# 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante;Aprendendo+a+ser+melhor;Construindo+novos+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=;Aprendendo+a+ser+melhor;Construindo+novos+projetos)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,8 +29,6 @@
 
 ---
 
-## Minhas contribuições
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Sonn00/Sonn00/output/github-snake.svg)
@@ -41,15 +39,14 @@
 
 <div align="center">
 
-☕*
+☕
 
 </div>
 
 ---
 
-## 🐍 Minhas contribuições
 
-<div align="center">
+
   
 
 
