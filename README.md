@@ -3,7 +3,10 @@
 
 # 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=;Aprendendo+a+ser+melhor;Construindo+novos+projetos)](https://git.io/typing-svg)
+
+<h1 align="center">𝚂𝙾𝙽𝙽𝟶𝟶</h1>
+<p align="center"><sub>CODE • CREATE • REPEAT</sub></p>
+
 
 </div>
 
